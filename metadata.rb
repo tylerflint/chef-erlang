@@ -1,6 +1,6 @@
 name             "erlang"
-maintainer       "YOUR_NAME"
-maintainer_email "YOUR_EMAIL"
+maintainer       "Tyler Flint"
+maintainer_email "tylerflint@gmail.com"
 license          "All rights reserved"
 description      "Installs/Configures erlang"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

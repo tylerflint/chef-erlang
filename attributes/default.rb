@@ -1,0 +1,1 @@
+default['erlang']['install_type'] = 'package'
